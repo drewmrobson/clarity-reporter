@@ -94,7 +94,7 @@ def send_screenshots(
     except Exception as ex:
         print(ex)
 
-with open('config.json') as f:
+with open('C:/Source/clarity-config.json') as f:
     config = json.load(f)
 
 take_screenshots(config)
