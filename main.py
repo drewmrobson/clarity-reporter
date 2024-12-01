@@ -83,7 +83,7 @@ def send_screenshots(
 				"name": "my_inline_image_4",
 				"contentId": "my_inline_image_4",
 				"contentType": "image/png",
-				"contentInBase64": get_base64_image("Squareman.png")
+				"contentInBase64": get_base64_image("4.png")
 			}]
         }
 
