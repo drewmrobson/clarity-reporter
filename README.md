@@ -17,10 +17,6 @@
     {
       "Url": "https://clarity.microsoft.com/projects/view/idtdomhtpo/dashboard?date=Last%203%20days",
       "Filename": "pumldev.png"
-    },
-    {
-      "Url": "https://clarity.microsoft.com/projects/view/idfb5nwklg/dashboard?date=Last%203%20days",
-      "Filename": "Squareman.png"
     }
   ]
 }
